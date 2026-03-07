@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on useful FOSS software
 - 📫 Reach me here or on Discord (@toothyfernsan)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=ToothyDev&theme=radical&hide_border=true&show_icons=True&layout=compact&range=all_time)
+[![ToothyDev's GitHub stats](https://github-stats-extended.vercel.app/api/wakatime?username=ToothyDev&theme=radical&hide_border=true&show_icons=True&layout=compact&range=all_time)](https://github.com/stats-organization/github-stats-extended)
